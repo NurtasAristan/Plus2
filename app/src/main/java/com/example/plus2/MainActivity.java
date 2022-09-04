@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     @Override
-    public void onConfigurationChanged(@NotNull Configuration newConfig) {
+    public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
 
         // Checks the orientation of the screen
